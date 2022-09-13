@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/A-03-REACT-COUNTER-CHALLENGE-/static/css/main.c50580ad.css",
+    "main.js": "/A-03-REACT-COUNTER-CHALLENGE-/static/js/main.3d69f985.js",
+    "static/js/787.5863b875.chunk.js": "/A-03-REACT-COUNTER-CHALLENGE-/static/js/787.5863b875.chunk.js",
+    "static/media/big-logo.png": "/A-03-REACT-COUNTER-CHALLENGE-/static/media/big-logo.548c53616e0e56bf33df.548c53616e0e56bf33df.png",
+    "index.html": "/A-03-REACT-COUNTER-CHALLENGE-/index.html",
+    "main.c50580ad.css.map": "/A-03-REACT-COUNTER-CHALLENGE-/static/css/main.c50580ad.css.map",
+    "main.3d69f985.js.map": "/A-03-REACT-COUNTER-CHALLENGE-/static/js/main.3d69f985.js.map",
+    "787.5863b875.chunk.js.map": "/A-03-REACT-COUNTER-CHALLENGE-/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50580ad.css",
+    "static/js/main.3d69f985.js"
+  ]
+}
